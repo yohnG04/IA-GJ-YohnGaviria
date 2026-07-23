@@ -99,13 +99,13 @@ Después de las presentaciones, discutiremos preguntas como:
 ------------------------------------------------------------------------
 
 # Reto adicional
+1. Totalemnte observable, determinista y episodico.
+2. 
+https://huggingface.co/spaces/DG-OBRABO/calculadora-simples
 
-Encuentre un Space que pueda clasificarse como:
-
-1.  **Totalmente observable, determinista y episódico.**
-2.  **Parcialmente observable, estocástico y secuencial.**
-
-Justifique su respuesta.
+Recibe todos los datos necesarios.
+Determinista: La misma operacion siempre produce el mismo resultado
+Episodico: Cada calculo es independiente de los anteriores.
 
 ------------------------------------------------------------------------
 
