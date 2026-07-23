@@ -68,14 +68,14 @@ Complete la siguiente tabla y justifique brevemente cada respuesta.
 
   Propiedad      Clasificación     Justificación
   -------------- ----------------- ---------------
-  Observable     Total              Solo conoce lo que el usuario le proporciona
+  Observable     / Total         /  Solo conoce lo que el usuario le proporciona
                                     pero no conoce completamente la intencion del usuario.
-  Determinista   No                 Porque produce imagenes diferentes cuando cambia de semilla 
+  Determinista   / No            /  Porque produce imagenes diferentes cuando cambia de semilla 
                                     y hay procesos aleatorios.        
-  Episódico      Sí                 Cada solicitud es independiente de las anteriores.          
-  Estático       Sí                 Mientras se procesa una imagen el entorno no cambia.
-  Discreto       No                 Las imagenes estan en espacios continuos (pixeles, colores).
-  Conocido       Sí                 Las acciones estan definidas por el modelo.
+  Episódico      / Sí            /  Cada solicitud es independiente de las anteriores.          
+  Estático       / Sí            /  Mientras se procesa una imagen el entorno no cambia.
+  Discreto       / No            /  Las imagenes estan en espacios continuos (pixeles, colores).
+  Conocido       / Sí            /  Las acciones estan definidas por el modelo.
 
 ------------------------------------------------------------------------
 
