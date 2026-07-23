@@ -70,12 +70,12 @@ Complete la siguiente tabla y justifique brevemente cada respuesta.
   -------------- ----------------- ---------------
   Observable     / Total         /  Solo conoce lo que el usuario le proporciona
                                     pero no conoce completamente la intencion del usuario.
-  > Determinista   / No            /  Porque produce imagenes diferentes cuando cambia de semilla 
+  Determinista   / No            /  Porque produce imagenes diferentes cuando cambia de semilla 
                                     y hay procesos aleatorios.        
-  > Episódico      / Sí            /  Cada solicitud es independiente de las anteriores.          
-  > Estático       / Sí            /  Mientras se procesa una imagen el entorno no cambia.
-  > Discreto       / No            /  Las imagenes estan en espacios continuos (pixeles, colores).
-  > Conocido       / Sí            /  Las acciones estan definidas por el modelo.
+  Episódico      / Sí            /  Cada solicitud es independiente de las anteriores.          
+  Estático       / Sí            /  Mientras se procesa una imagen el entorno no cambia.
+  Discreto       / No            /  Las imagenes estan en espacios continuos (pixeles, colores).
+  Conocido       / Sí            /  Las acciones estan definidas por el modelo.
 
 ------------------------------------------------------------------------
 
@@ -83,9 +83,6 @@ Complete la siguiente tabla y justifique brevemente cada respuesta.
 
 Agente basado en objetivos porque el objetivo del sistema es generar una imagen que represente
 de la mejor manera lo que el usuario ingresó. Analiza el texto y da el resultado orientado a cumplir el objetivo.
-
-> **Importante:** No existe una única respuesta correcta. Lo importante
-> es justificar la elección a partir del comportamiento observado.
 
 ------------------------------------------------------------------------
 
